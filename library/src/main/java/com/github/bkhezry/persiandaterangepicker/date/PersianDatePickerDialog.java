@@ -18,7 +18,7 @@ package com.github.bkhezry.persiandaterangepicker.date;
 
 import android.animation.ObjectAnimator;
 import android.app.Activity;
-import android.app.DialogFragment;
+import androidx.fragment.app.DialogFragment;
 import android.content.DialogInterface;
 import android.content.res.Resources;
 import android.os.Bundle;
